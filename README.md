@@ -9,7 +9,8 @@ In this project, I analyze demographics data for customers of a mail-order sales
 ## Table of Contents
 1. Setup/Requirements and Instructions for Running 
 2. Files in Repositroy
-3. Acknowledgements
+3. Blog Post
+4. Acknowledgements
 
 
 ## Setup/Requirements and Instructions for Running 
@@ -25,6 +26,9 @@ There are a number of .csv files for checkpoints where work was saved. These can
 'requirements.txt' has all of the requirements for running the notebook
 'results.csv' has the results of the model on a test set
 'visuals.py' was created by udacity and has visualization functions for supervised learning algorithm outputs
+
+## Blog Post
+Check out this in depth explanation of all the work that went into this analysis explained in a more simplisitc and easy to digest way: https://github.com/bchase17/DS_Capstone/blob/main/Capstone%20Blog%20Post.pdf
 
 ## Acknowledgements
 
