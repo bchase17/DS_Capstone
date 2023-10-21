@@ -9,7 +9,7 @@ In this project, I analyze demographics data for customers of a mail-order sales
 ## Table of Contents
 1. Setup/Requirements and Instructions for Running 
 2. Files in Repositroy
-3. Report and Blog Post
+3. Proposal, Report and Blog Post
 4. Acknowledgements
 
 
@@ -28,6 +28,10 @@ There are a number of .csv files for checkpoints where work was saved. These can
 'visuals.py' was created by udacity and has visualization functions for supervised learning algorithm outputs
 
 ## Report and Blog Post
+Proposal
+- The proposal has the high level description of the project and planned approach for findign an optimal solution for Arvato:
+  https://github.com/bchase17/DS_Capstone/blob/main/Proposal.pdf
+
 Report
 - Check out this in depth explanation of all the work that went into this analysis at a techncial level and understand the different approaches that were taken for different modeling efforts:
 https://github.com/bchase17/DS_Capstone/blob/main/Report.pdf
