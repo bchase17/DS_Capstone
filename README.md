@@ -34,7 +34,7 @@ Proposal
 
 Report
 - Check out this in depth explanation of all the work that went into this analysis at a techncial level and understand the different approaches that were taken for different modeling efforts:
-https://github.com/bchase17/DS_Capstone/blob/main/Report.pdf
+  https://github.com/bchase17/DS_Capstone/blob/main/Report.pdf
 
 Blog
 - Check out this high level explanation of what went into this analysis explained in a more simplisitc and easy to digest way:
