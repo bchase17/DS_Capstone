@@ -27,7 +27,7 @@ There are a number of .csv files for checkpoints where work was saved. These can
 'results.csv' has the results of the model on a test set
 'visuals.py' was created by udacity and has visualization functions for supervised learning algorithm outputs
 
-## Blog Post
+## Report and Blog Post
 Report
 - Check out this in depth explanation of all the work that went into this analysis at a techncial level and understand the different approaches that were taken for different modeling efforts:
 https://github.com/bchase17/DS_Capstone/blob/main/Report.pdf
